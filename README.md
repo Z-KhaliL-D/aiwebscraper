@@ -27,3 +27,4 @@ This project is a Streamlit web application that combines dynamic web scraping w
 - [pip](https://pip.pypa.io/)
 - Microsoft Edge WebDriver (or modify `scrape.py` for another browser)
 - Hugging Face API key
+- create a .env file and place your hugging face API in it.
